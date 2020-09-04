@@ -4,14 +4,14 @@ Title: Comparison of High and Low Crime Rate Cities in States Across the U.S
 
 Members: Temidayo Akinsanya and Cheryl Johnson
 
-Project Description: This project will seek to examine all cities in all states in the United States and extract and compare the cities in each state that has the highest and lowest crime rate per capita. The comparison will examine several data points such as level of education, race, average income, marital status, poverty rate, unemployment, and school enrollment for each of the cities.
+Project Description: This project will seek to examine all cities in all states in the United States and extract and compare the cities in each state that has the highest and lowest crime rate per capita. The comparison will examine several data points such as level of education, race, average income, marital status, unemployment, population, and school enrollment for each of the cities.
 
 Research Questions:
-Is there a correlation between the level of violent crime and the presence of lack thereof of living arrangements with higher proportion of married spouses?
+Is there a correlation between the level of violent crime and income?
+Is there a correlation between the level of violent crime and unemployment?
 Can the rate of school enrollment predict the level of violent crime rate in America cities?
-Is violent crime rate more likely to be higher in cities with a particular race?
-Is there a correlation between poverty rate and violent crime rate?
-Is there a correlation between unemployment and violent crime rate?
+Is violent crime rate more likely to be higher in cities with a particular race or higher population?
+
 
 Datasets To Be Used:
 Census 2015 ACS Data
